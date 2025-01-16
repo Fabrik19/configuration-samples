@@ -8,5 +8,16 @@
       "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/single-page-app/root.png",
       "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/single-page-app/root_dark.png"
     ]
+  },
+  {
+    "Name": "Blog App",
+    "Url": "https://github.com/Fabrik19/fabrik19-blog/archive/refs/heads/master.zip",
+    "Description": "The Fabrik19 Blog App demonstrates basic features of mos:\n\n - Tabs\n - Database and Queries\n - External Datasource\n - Lists\n - Detail Views\n - Layer Styles\n - Actions\n - Assets\n - Translations",
+    "Preview": "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/fabrik19-blog/preview.png",
+    "ImageUrls": [
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/fabrik19-blog/home.png",
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/fabrik19-blog/blog_list.png",
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/fabrik19-blog/blog_entry.png"
+    ]
   }
 ]
