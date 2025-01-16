@@ -5,7 +5,8 @@
     "Description": "The Single Page App is a demonstration for a simple mos. app. The following features were used:\n\n - Navigation Bar Layout\n - Layered View\n - Template\n - Text Layer\n - Image Layer\n - Asset\n - Translations\n - Conditional Styles (for dark mode)",
     "Preview": "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/single-page-app/preview.png",
     "ImageUrls": [
-      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/single-page-app/root.png"
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/single-page-app/root.png",
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/single-page-app/root_dark.png"
     ]
   }
 ]
