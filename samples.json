@@ -24,7 +24,7 @@
     "Name": "Gas Station App",
     "Url": "https://github.com/Fabrik19/showcase-gasStation/archive/refs/heads/main.zip",
     "Description": "Gas Station App is a public showcase project built using the mos. technology.\nIt demonstrates the technology's ability to build real-world, data-driven mobile applications.\n\nThe app allows users to:\n\n  - Search for gas stations in Germany based on provided location and range\n  - View a sortable list of matching stations with up-to-date fuel prices\n  - Display the search results on an interactive in-app map\n  - Launch navigation to a selected gas station via Google Maps or Apple Maps",
-    "Preview": "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/gas-station/preview.png",
+    "Preview": "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/gas-station/location.png",
     "ImageUrls": [
       "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/gas-station/location.png",
       "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/gas-station/stations.png",
