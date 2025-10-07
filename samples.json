@@ -30,5 +30,16 @@
       "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/gas-station/stations.png",
       "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/gas-station/map.png"
     ]
+  },
+  {
+    "Name": "Tutorial App",
+    "Url": "https://config.git.dev.fabrik19.de/MosNodeConfigs/DnDMonsters/archive/main.zip",
+    "Description": "As part of mos.academy, the Tutorial App will demonstrate how to create applications using the mos. technology.",
+    "Preview": "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/tutorial-app/detail.png",
+    "ImageUrls": [
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/tutorial-app/list.png",
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/tutorial-app/detail.png",
+      "https://github.com/Fabrik19/configuration-samples/raw/refs/heads/main/images/tutorial-app/favorite.png"
+    ]
   }
 ]
